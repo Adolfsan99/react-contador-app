@@ -1,10 +1,8 @@
-# Abrir proyecto de React con ⚡Vite
-
 ## Requisitos previos
 
 * Tener instalado node.js
 
-## Creando el proyecto
+# Abrir proyecto de React con ⚡Vite
 
 * Clona este repositorio
 
@@ -15,3 +13,7 @@ para esto puedes usar " CTRL + Ñ " En teclados españoles " CTRL + ` " En tecla
 
 * npm i
 * npm run dev
+
+### Conceptos
+* Hooks
+* Componentes
