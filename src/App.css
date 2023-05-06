@@ -1,0 +1,55 @@
+html, body {
+  background-color: #111;
+}
+
+.contador {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.logotipo {
+  margin-top: 100px;
+  background-color: yellowgreen;
+  height: 300px;
+  border-radius: 100%;
+}
+
+h1 {
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  font-family: sans-serif;
+  font-size: 4em;
+  font-weight: bold;
+  color: #fff;
+  border: 2px solid white;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00471b;
+}
+
+.boton-clic {
+  background-color: #002ead;
+}
+
+.boton-reiniciar {
+  background-color: #5a01a7;
+}
+
+.contadornumeros {
+  padding: 50px;
+  border: 2px solid white;
+  color: white;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  border-radius: 100%;
+}
